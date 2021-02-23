@@ -16,6 +16,7 @@ In this example we'll use five strategies:
 + Google ([ueberauth_google](https://github.com/ueberauth/ueberauth_google))
 + Slack ([ueberauth_slack](https://github.com/ueberauth/ueberauth_slack))
 + Twitter ([ueberauth_twitter](https://github.com/ueberauth/ueberauth_twitter))
++ Okta ([ueberauth_okta](https://github.com/jjcarstens/ueberauth_okta))
 + Identity ([ueberauth_identity](https://github.com/ueberauth/ueberauth_identity))
 
 ## Setup
