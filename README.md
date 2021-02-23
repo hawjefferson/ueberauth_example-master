@@ -43,6 +43,9 @@ In this example we'll use five strategies:
 	+ Twitter ([https://dev.twitter.com](https://dev.twitter.com))
 		+ TWITTER_CONSUMER_KEY
 		+ TWITTER_CONSUMER_SECRET
+	+ Okta ([https://developer.okta.com](https://developer.okta.com))
+		+ OKTA_CLIENT_ID
+		+ OKTA_CLIENT_SECRET
 
 1. Clone the project:
 
